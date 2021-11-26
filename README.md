@@ -1,5 +1,7 @@
 # Myproject
 In the context of an internship with letsgrowmore community, i’ve been charged to to do a bunch of tasks including:
+
+
 1-analyse a huge set of data of terrorism Number of task_1, Level: Intermediate Exploratory Data Analysis on Dataset - Terrorism
 
 As a security/defense analyst, try to find out the hot zone of terrorism.
